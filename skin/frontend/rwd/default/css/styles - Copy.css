@@ -3183,7 +3183,7 @@ body {
  * ============================================ */
 .header-language-background {
   padding: 10px;
-  background-color: #fafafa;
+  background-color: #3399cc;
   text-transform: uppercase;
 }
 .header-language-background .header-language-container {
@@ -3202,7 +3202,7 @@ body {
   margin-right: 10px;
 }
 .header-language-background .welcome-msg {
-  float: left;
+  float: right;
 }
 
 .page-header-container .store-language-container {
@@ -3408,8 +3408,7 @@ a.skip-link {
 }
 .account-cart-wrapper {
   position: absolute;
-  /* top: 0px; */
-  top:55px;
+  top: 0px;
   right: 0px;
 }
 @media only screen and (max-width: 770px) {
@@ -3480,9 +3479,7 @@ a.skip-link {
   text-decoration: none;
   position: relative;
   display: block;
-  /*color: #636363;*/
-  color: #000000;
-  font-weight:bold;
+  color: #636363;
   line-height: 30px;
   font-family: "Raleway", "Helvetica Neue", Verdana, Arial, sans-serif;
 }
@@ -3662,12 +3659,10 @@ a.skip-link {
     display: block;
     position: absolute;
     top: 55px;
-    /*right: 0;*/
-    width: 40%;
+    right: 0;
+    width: 25%;
     height: 50px;
-	margin-left: 257px;
     padding: 0;
-	float:left;
   }
 }
 /* ============================================ *
